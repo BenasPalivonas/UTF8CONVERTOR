@@ -1,0 +1,8 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\User\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(237,42): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(282,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(283,17): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(284,17): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(385,41): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\User\source\repos\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(412,19): warning C4101: 'a': unreferenced local variable
+  ConsoleApplication7.vcxproj -> C:\Users\User\source\repos\ConsoleApplication7\Debug\ConsoleApplication7.exe
